@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PPL App</string>
+    <string-array name="choose_category">
+        <item>Player</item>
+        <item>Coach</item>
+        <item>Manager</item>
+        <item>Support Staff</item>
+        <item>Sponser</item>
+    </string-array>
+</resources>
